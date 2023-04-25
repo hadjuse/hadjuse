@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">-👋 Hi, I’m @hadjuse Student in a School Engineer called "Cy-Tech" at Cergy near to Paris<br>- 👀 I’m interested in AI,Machine Learning, Video games, Python, Website <br>- 🌱 I’m currently learning ... Scrapping with python, Machine Learning, Javascript, C <br>- 📫 How to reach me by mail: rabearimananahadjpro@gmail.com<br>- ⚡ In my free time, I try to improve my piano playing or getting outside with friends.</p>
+<p align="left">-👋 Hi, I’m @hadjuse Student in a School Engineer called "Cy-Tech" at Cergy near to Paris<br>- 👀 I’m interested in AI, Machine Learning, Deep Learning, Video games, Python, Website <br>- 🌱 I’m currently learning ... Scrapping with python, Machine Learning, Javascript, C <br>- 📫 How to reach me by mail: rabearimananahadjpro@gmail.com<br>- ⚡ In my free time, I try to improve my piano playing or getting outside with friends.</p>
 
 ###
 
