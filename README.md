@@ -1,12 +1,42 @@
 # 💫 About Me:
 I am an AI Engineer Student and a Cloud Engineer Apprentice at IDEMIA<br>In my free time I love playing instrument !
 
+## 👨‍💻 Experience
 
+### 🏢 IDEMIA — Cloud & AI Engineer *(Apprenticeship, ~3 years)*
+`PyTorch` `AWS` `Azure` `Terraform` `Docker` `MLOps` `VLLM` `Mistral`
+
+- Designed and deployed end-to-end ML/AI pipelines on AWS and Azure
+- Managed cloud infrastructure using Terraform and Docker
+- Fine-tuned large language models (Mistral) and optimized inference throughput with VLLM
+- Built MLOps workflows covering experiment tracking, model versioning, and serving
+
+### 🔬 IDEMIA Germany — Research Intern *(Vision-Language Models)*
+`Vision-Language Models` `GPU Optimization` `PyTorch`
+
+- Conducted applied research on vision-language models (VLMs)
+- Optimized GPU utilization for large-scale inference workloads
+
+---
+
+## 🎓 Education
+
+### CY Tech (ex-EISTI) — Computer Science Engineering Degree *(2026)*
+Specialization: **AI, Data & Cloud**
+
+---
+
+## 🛠️ Tech Stack
+
+| Domain | Tools |
+|---|---|
+| ML / DL | PyTorch, VLLM, Mistral, Vision-Language Models |
+| Cloud | AWS, Azure, GCP |
+| IaC & DevOps | Terraform, Docker, MLflow |
+| Languages | Python, Bash, SQL |
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadj-rabearimanana-134181256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rabearimananahadjpro@gmail.com) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hadjuse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hadjuse&theme=dark&hide_border=false)<br/>
