@@ -4,12 +4,11 @@ I am an AI Engineer Student and a Cloud Engineer Apprentice at IDEMIA<br>In my f
 ## 👨‍💻 Experience
 
 ### 🏢 IDEMIA — Cloud & AI Engineer *(Apprenticeship, ~3 years)*
-`PyTorch` `AWS` `Azure` `Terraform` `Docker` `MLOps` `VLLM` `Mistral`
+`AWS` `Azure` `Terraform` `Docker` `VLLM` `Bash` `Python`
 
-- Designed and deployed end-to-end ML/AI pipelines on AWS and Azure
+- Designed and deployed end-to-end AWS service
 - Managed cloud infrastructure using Terraform and Docker
-- Fine-tuned large language models (Mistral) and optimized inference throughput with VLLM
-- Built MLOps workflows covering experiment tracking, model versioning, and serving
+- Debug and update existant infrastructure
 
 ### 🔬 IDEMIA Germany — Research Intern *(Vision-Language Models)*
 `Vision-Language Models` `GPU Optimization` `PyTorch`
@@ -31,7 +30,7 @@ Specialization: **AI, Data & Cloud**
 | Domain | Tools |
 |---|---|
 | ML / DL | PyTorch, VLLM, Mistral, Vision-Language Models |
-| Cloud | AWS, Azure, GCP |
+| Cloud | AWSn Azure |
 | IaC & DevOps | Terraform, Docker, MLflow |
 | Languages | Python, Bash, SQL |
 ## 🌐 Socials:
