@@ -30,7 +30,7 @@ Specialization: **AI, Data & Cloud**
 | Domain | Tools |
 |---|---|
 | ML / DL | PyTorch, VLLM, Mistral, Vision-Language Models |
-| Cloud | AWSn Azure |
+| Cloud | AWS | Azure |
 | IaC & DevOps | Terraform, Docker, MLflow |
 | Languages | Python, Bash, SQL |
 ## 🌐 Socials:
